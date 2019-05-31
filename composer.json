@@ -2,6 +2,7 @@
   "name": "forix/debug-tool",
   "description": "Debug (for internal uses only)",
   "type": "magento2-lib",
+  "license": "MIT",
   "require": {
     "php": ">=5.3.0"
   },
